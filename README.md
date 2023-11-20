@@ -1,5 +1,4 @@
-# 💫About Me :
-👾Hacker👾
+# 💫About Me (👾Hacker👾):
 I am a Cybersecurity Consultant and passionnate !
 Let's secure the world together ! 👨🏻‍💻
 
