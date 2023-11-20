@@ -21,7 +21,7 @@ Let's secure the world together ! 👨🏻‍💻
 ![](https://github-trophies.vercel.app/?username=Noiuytre&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://media.licdn.com/dms/image/C4D22AQHb1oZfrUWBzA/feedshare-shrink_2048_1536/0/1645976693948?e=2147483647&v=beta&t=fOpj0Xxp2QnThN58gXPtI4ZtCBjNdHr9WoXkCqdrLRQ)https://media.licdn.com/dms/image/C4D22AQHb1oZfrUWBzA/feedshare-shrink_2048_1536/0/1645976693948?e=2147483647&v=beta&t=fOpj0Xxp2QnThN58gXPtI4ZtCBjNdHr9WoXkCqdrLRQ" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Noiuytre&icon=2&color=3)](https://visitcount.itsvg.in)
