@@ -20,7 +20,7 @@ Let's secure the world together ! 👨🏻‍💻
 ![](https://github-trophies.vercel.app/?username=Noiuytre&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂Random Dev Meme
-<img src="https://media.licdn.com/dms/image/D5622AQGjKBMIBIs-LA/feedshare-shrink_800/0/1699688680938?e=1702512000&v=beta&t=-qgRVI_k-wD4vVH2xIzOAzc1Ov5zdt85LtlPdWgXovw)https://media.licdn.com/dms/image/D5622AQGjKBMIBIs-LA/feedshare-shrink_800/0/1699688680938?e=1702512000&v=beta&t=-qgRVI_k-wD4vVH2xIzOAzc1Ov5zdt85LtlPdWgXovw" width="512px"/>
+<img src="https://media.licdn.com/dms/image/D5622AQGjKBMIBIs-LA/feedshare-shrink_800/0/1699688680938?e=1702512000&v=beta&t=-qgRVI_k-wD4vVH2xIzOAzc1Ov5zdt85LtlPdWgXovw" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Noiuytre&icon=2&color=3)](https://visitcount.itsvg.in)
