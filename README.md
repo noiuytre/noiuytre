@@ -4,7 +4,7 @@ I am a Cybersecurity Consultant and passionnate !
 Let's secure the world together ! 👨🏻‍💻
 
 ## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/noiuytre#0141) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/charles-melis-397007175) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/noiuytre.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-melis-397007175) 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 <img align="right" height="150" src="https://th.bing.com/th/id/R.44d7da339cb763a8d6614388df3836f2?rik=%2bD6C7jZwA2jpNA&pid=ImgRaw&r=0"  />
 
