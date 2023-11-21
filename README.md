@@ -1,4 +1,4 @@
-# 💫About Me (👾Trying to be a Hacker👾):
+# 💫About Me (👾Trying to be an ethical Hacker👾):
 I am a Cybersecurity Consultant and passionnate !
 Let's secure the world together ! 👨🏻‍💻
 
